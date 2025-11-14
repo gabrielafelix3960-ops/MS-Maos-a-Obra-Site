@@ -1,0 +1,29 @@
+[
+{
+"id": "revestimentos",
+"nome": "Revestimentos e azulejaria",
+"categoria": "Acabamentos",
+"materiais_eur_m2": 10,
+"produtividade_m2_por_dia_por_empregado": 8,
+"valor_dia_por_empregado": 70,
+"iva_percent": 23
+},
+{
+"id": "etics",
+"nome": "Aplicação ETICS / Capoto",
+"categoria": "Isolamento",
+"materiais_eur_m2": 28,
+"produtividade_m2_por_dia_por_empregado": 15,
+"valor_dia_por_empregado": 70,
+"iva_percent": 23
+},
+{
+"id": "remodelacao",
+"nome": "Remodelações interiores",
+"categoria": "Obra",
+"materiais_eur_m2": 35,
+"produtividade_m2_por_dia_por_empregado": 10,
+"valor_dia_por_empregado": 75,
+"iva_percent": 23
+}
+]
